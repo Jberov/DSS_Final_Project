@@ -1,0 +1,65 @@
+.container-fluid{
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("wp3396909.jpg");
+    height: 24vh;
+}
+.page-header{
+
+    color:whitesmoke;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position: relative; 
+}
+
+.page-header h1{
+    padding-top: 5vh !important;
+    text-align: center !important;
+    font-size: 5vw !important;
+}
+.btn {
+    margin-right: 0.3vw !important;
+    margin-left: 0.4vw !important;
+}
+.form-row{ 
+   float: right !important;
+   width: 100% !important;
+
+}
+.navbar-brand{
+    margin-left: 0.3vw !important;
+}
+.nav-item{
+   padding-left: 1vw !important;
+}
+.nav-link{
+    display:inline-block !important;
+}
+.table{
+    margin-top: 2vw !important;
+}
+thead th{
+    font-size: 2vw;
+}
+.news-article img{
+    width: 20.5vw;
+    height: 12vw;
+    float: left !important;
+    margin-left: 0.5vw !important;
+    margin-right: 2vw !important;
+}
+.news-article{
+    width: 100% !important;
+    height: 12vw !important;
+}
+.news-article h2{
+    font-size: 2vw !important;
+}
+.news-article h5{
+    font-size: 1.2vw !important;
+}
+.footer{
+    margin-top: 1vw !important;
+    text-align: center !important;
+}
+.text-muted{
+    color :whitesmoke !important;
+}   
+
